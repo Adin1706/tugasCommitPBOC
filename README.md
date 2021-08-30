@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+A.Humaidi Hasani/202410101010
